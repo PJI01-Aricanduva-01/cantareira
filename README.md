@@ -1,5 +1,4 @@
-# Monitoramento e Predição dos Volumes Acumulados no Manancial Cantareira
-Projeto Integrador em Computação IV - 7º semestre de Ciência de Dados e Engenharia da Computação
+# Projeto Integrador em Computação IV - 7º semestre de Ciência de Dados e Engenharia da Computação
 
 
 ➡️ Acima você encontra as bases de dados, código em R para monitoramento e predição e a apresentação em PowerBI. <br>
